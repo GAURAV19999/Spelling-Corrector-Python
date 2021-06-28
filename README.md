@@ -1,0 +1,1 @@
+A very basic machine learning project on spelling correction with Python programming language.With the use of textblob library in Python, we can easily create Machine Learning Models for the task of Spelling Corrections.
